@@ -1,2 +1,3 @@
 # Agenda_CRUD
- Agenda com funções CRUD (Create, Read, Update e Delete). Feita com Python.
+ Agenda Básica com funções CRUD (Create, Read, Update e Delete).
+ Feita com Python.
